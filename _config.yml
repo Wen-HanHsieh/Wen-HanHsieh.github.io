@@ -3,25 +3,25 @@
 # -----------------------------------------------------------------------------
 
 # SEO
-title: Yen-Jen Wang's Personal Website # the website title (currently, we only use title for better seo, full name will be displayed on the webpage as the title)
-tagline: The personal website of Yen-Jen Wang
-author: Yen-Jen Wang
+title: Wen-Han Hsieh # the website title (currently, we only use title for better seo, full name will be displayed on the webpage as the title)
+tagline: The personal website of Wen-Han Hsieh
+author: Wen-Han Hsieh
 
-first_name: Yen-Jen
-last_name: Wang
-chinese_name: 王彥仁
-email: wangyenjen@berkeley.edu
+first_name: Wen-Han
+last_name: Hsieh
+chinese_name: 謝文瀚
+email: hense1219@berkeley.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Yen-Jen Wang's personal website.
+  Wen-Han Hsieh's personal website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Yen-Jen Wang's personal website # add your own keywords or leave empty
+keywords: Wen-Han Hsieh's personal website # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://wangyenjen.github.io # the base hostname & protocol for your site
+url: https://wenhanhsieh.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -74,13 +74,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: wangyenjen # your GitHub user name
+github_username: Wen-HanHsieh # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: wangyenjen # your Twitter handle
+twitter_username: henseoba # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: wen-han-hsieh # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: _U-HwfkAAAAJ # your Google Scholar ID
+scholar_userid: wSDT1zwAAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -156,7 +156,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: Yen-JenWang # put your disqus shortname
+disqus_shortname: Wen-HanHsieh # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
