@@ -20,12 +20,13 @@ selected_projects: true
 
 Hi! I'm **Wen-Han**, an aspiring researcher at [Berkeley Artificial Intelligence Research Lab (BAIR)](https://bair.berkeley.edu), where I'm advised by [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Koushil Sreenath](https://me.berkeley.edu/people/koushil-sreenath/).
 
-I had completed my B.S. in MechE at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) in June 2025.
+Previously, I obtained my B.S. in MechE at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/), under the supervision of [James Chang](https://pme.site.nthu.edu.tw/p/406-1308-74003,r4027.php?Lang=en)
 
 My research interests center around:
-- Vision-Language Models
-- Robotics and Embodied AI
-- Multimodal Reasoning and Planning
+- Robotics & Embodied AI
+- Dexterous Hand Manipulation
+- Vision-Language-Action Models
+
 
 Every decision and experience I pursue is driven by a long-term commitment to becoming a leading AI researcher. I will be applying to Ph.D. and Master's programs this fall to further this mission.
 
