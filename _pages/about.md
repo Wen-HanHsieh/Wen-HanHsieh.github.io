@@ -20,7 +20,7 @@ selected_projects: true
 
 Hi! I'm **Wen-Han**, an aspiring researcher at [Berkeley Artificial Intelligence Research Lab (BAIR)](https://bair.berkeley.edu), where I'm advised by [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Koushil Sreenath](https://me.berkeley.edu/people/koushil-sreenath/).
 
-Previously, I obtained my B.S. in MechE at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/), under the supervision of [James Chang](https://pme.site.nthu.edu.tw/p/406-1308-74003,r4027.php?Lang=en)
+Previously, I obtained my B.S. in MechE at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/), under the supervision of [James Chang](https://pme.site.nthu.edu.tw/p/406-1308-74003,r4027.php?Lang=en).
 
 My research interests center around:
 - Robotics & Embodied AI
