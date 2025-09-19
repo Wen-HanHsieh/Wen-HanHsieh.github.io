@@ -2,7 +2,7 @@
 layout: default
 title: 'LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery'
 authors: Jerome Quenum*, <strong>Wen-Han Hsieh*</strong>, Tsung-Han Wu, Ritwik Gupta, Trevor Darrell, David M. Chan
-publication: arXiv preprint arXiv:2410.11825
+publication: Advanced in Neural Information Processing Systems (NeurIPS) , 2025
 year: 2025.5
 pdf: https://arxiv.org/pdf/2505.02829
 code: https://github.com/lisat-bair/LISAt_code
