@@ -15,7 +15,7 @@ latest_posts: false  # includes a list of the newest posts
 awards: false
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-selected_projects: true
+selected_projects: false
 ---
 
 Hi! I'm **Wen-Han**. I am currently a visiting student at [Berkeley Artificial Intelligence Research Lab (BAIR)](https://bair.berkeley.edu), where I'm advised by Professors [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Koushil Sreenath](https://me.berkeley.edu/people/koushil-sreenath/) and [Haozhi Qi](https://haozhi.io/).
