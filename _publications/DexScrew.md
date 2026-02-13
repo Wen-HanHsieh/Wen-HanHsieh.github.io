@@ -2,6 +2,7 @@
 layout: default
 title: 'Learning Dexterous Manipulation Skills from Imperfect Simulations'
 authors: Elvis Hsieh*, <strong>Wen-Han Hsieh*</strong>, Yen-Jen Wang*, Toru Lin, Jitendra Malik, Koushil Sreenath†, Haozhi Qi†
+publication: IEEE International Conference on Robotics and Automation (ICRA), 2026
 year: 2025.9
 pdf: https://arxiv.org/pdf/2512.02011
 code: https://github.com/x-robotics-lab/dexscrew

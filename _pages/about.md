@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: santa_cruz.png
+  image: headshot_wenhan_with_cat.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
@@ -18,16 +18,15 @@ social: true  # includes social icons at the bottom of the page
 selected_projects: true
 ---
 
-Hi! I'm **Wen-Han**, an aspiring researcher at [Berkeley Artificial Intelligence Research Lab (BAIR)](https://bair.berkeley.edu), where I'm advised by [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Koushil Sreenath](https://me.berkeley.edu/people/koushil-sreenath/).
+Hi! I'm **Wen-Han**. I am currently a visiting student at [Berkeley Artificial Intelligence Research Lab (BAIR)](https://bair.berkeley.edu), where I'm advised by Professors [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Koushil Sreenath](https://me.berkeley.edu/people/koushil-sreenath/) and [Haozhi Qi](https://haozhi.io/).
 
-Previously, I obtained my B.S. in MechE at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/), under the supervision of [James Chang](https://pme.site.nthu.edu.tw/p/406-1308-74003,r4027.php?Lang=en).
+Previously, I obtained my B.S. in MechE at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/).
 
 My research interests center around:
-- Robotics & Embodied AI
-- Dexterous Hand Manipulation
-- Vision-Language-Action Models
+- Embodied AI
+- Robot Learning
+- Dexterous Manipulation
 
-
-Every decision and experience I pursue is driven by a long-term commitment to becoming a leading AI researcher. I will be applying to Ph.D. and Master's programs this fall to further this mission.
+Outside of research, I love playing basketball 🏀 & singing 🎤.
 
 Feel free to contact me through Email or Linkedin, I am happy to coffee chat : )
