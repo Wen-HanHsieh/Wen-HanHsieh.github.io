@@ -18,9 +18,7 @@ social: true  # includes social icons at the bottom of the page
 selected_projects: false
 ---
 
-Hi! I'm **Wen-Han**. I am currently a visiting student at [Berkeley Artificial Intelligence Research Lab (BAIR)](https://bair.berkeley.edu), where I'm advised by Professors [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Koushil Sreenath](https://me.berkeley.edu/people/koushil-sreenath/) and [Haozhi Qi](https://haozhi.io/).
-
-Previously, I obtained my B.S. in MechE at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/).
+Hi! I'm **Wen-Han**. I am an incoming MS Robotics student at [CMU RI](https://www.ri.cmu.edu/) and an incoming Research Scientist Intern at [Genesis AI](https://www.genesis.ai/). Previously, I was a visiting student at [Berkeley AI Research (BAIR)](https://bair.berkeley.edu), where I was advised by [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Koushil Sreenath](https://me.berkeley.edu/people/koushil-sreenath/) and [Haozhi Qi](https://haozhi.io/). I received my BS in MechE at [NTHU](https://nthu-en.site.nthu.edu.tw/).
 
 My research interests center around:
 - Embodied AI
@@ -29,4 +27,4 @@ My research interests center around:
 
 Outside of research, I love playing basketball 🏀 & singing 🎤.
 
-Feel free to contact me through Email or Linkedin, I am happy to coffee chat : )
+Feel free to contact me by email or Linkedin, I am happy to have a coffee chat : )
