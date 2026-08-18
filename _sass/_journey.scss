@@ -1,0 +1,113 @@
+/*******************************************************************************
+ * Journey timeline (see _includes/journey.html and _data/journey.yml)
+ ******************************************************************************/
+
+.journey {
+  margin-top: 2rem;
+
+  .timeline {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
+
+  // The vertical rail sits between the date column and the body column.
+  .timeline::before {
+    content: "";
+    position: absolute;
+    top: 6px;
+    bottom: 6px;
+    left: 132px;
+    width: 2px;
+    background-color: var(--global-divider-color);
+  }
+
+  .timeline-item {
+    position: relative;
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    gap: 32px;
+    padding: 6px 0 22px;
+
+    &:last-child {
+      padding-bottom: 0;
+    }
+
+    &:hover .timeline-marker {
+      background-color: var(--global-theme-color);
+    }
+  }
+
+  .timeline-marker {
+    position: absolute;
+    left: 126px; // centered on the 2px rail at 132px
+    top: 12px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: var(--global-bg-color);
+    border: 2px solid var(--global-theme-color);
+    box-shadow: 0 0 0 3px var(--global-bg-color);
+    transition: background-color 0.2s ease;
+  }
+
+  .timeline-date {
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
+    padding-top: 9px;
+    text-align: right;
+    letter-spacing: 0.02em;
+  }
+
+  .timeline-body {
+    padding-top: 4px;
+  }
+
+  .timeline-role {
+    font-size: 1rem;
+    font-weight: bold;
+
+    a {
+      color: var(--global-text-color);
+
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .timeline-title {
+    font-size: 0.95rem;
+    margin-top: 2px;
+  }
+
+  .timeline-meta {
+    margin-top: 4px;
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
+    line-height: 1.6;
+  }
+
+  @media (max-width: 576px) {
+    .timeline::before {
+      left: 10px;
+    }
+
+    .timeline-item {
+      grid-template-columns: 1fr;
+      gap: 4px;
+      padding-left: 30px;
+    }
+
+    .timeline-marker {
+      left: 4px;
+      top: 8px;
+    }
+
+    .timeline-date {
+      text-align: left;
+      padding-top: 0;
+    }
+  }
+}

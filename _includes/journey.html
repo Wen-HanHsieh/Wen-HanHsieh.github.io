@@ -1,0 +1,24 @@
+<!-- Journey: vertical timeline of past experience, driven by _data/journey.yml -->
+<div class="journey">
+  <h2>Journey</h2>
+
+  <ol class="timeline">
+    {%- for item in site.data.journey %}
+    <li class="timeline-item">
+      <div class="timeline-marker" aria-hidden="true"></div>
+      <div class="timeline-date">{{ item.date }}</div>
+      <div class="timeline-body">
+        <div class="timeline-role">
+          {%- if item.url %}<a href="{{ item.url }}">{{ item.org }}</a>{% else %}{{ item.org }}{% endif -%}
+        </div>
+        {%- if item.title %}
+        <div class="timeline-title">{{ item.title }}</div>
+        {%- endif %}
+        {%- if item.meta %}
+        <div class="timeline-meta">{{ item.meta }}</div>
+        {%- endif %}
+      </div>
+    </li>
+    {%- endfor %}
+  </ol>
+</div>
