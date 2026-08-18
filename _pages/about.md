@@ -28,5 +28,3 @@ My research interests center around:
 - Dexterous Manipulation
 
 Outside of research, I love playing basketball 🏀 & singing 🎤.
-
-Feel free to contact me by email or Linkedin, I am happy to have a coffee chat : )
