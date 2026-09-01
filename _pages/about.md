@@ -20,7 +20,7 @@ selected_projects: false
 journey: true  # includes the Journey timeline from _data/journey.yml
 ---
 
-Hi! I'm **Wen-Han**. I am currently a MS Robotics student at [CMU RI](https://www.ri.cmu.edu/) advised by [Guanya Shi](https://www.gshi.me/). I spent a wonderful summer this year at [Genesis AI](https://www.genesis.ai/) as a Research Scientist Intern, advised by [Zhenjia Xu](https://zhenjiaxu.com/). Previously, I was a visiting student at [Berkeley AI Research (BAIR)](https://bair.berkeley.edu), where I was advised by [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Koushil Sreenath](https://me.berkeley.edu/people/koushil-sreenath/) and [Haozhi Qi](https://haozhi.io/). I received my BS in MechE at [NTHU](https://nthu-en.site.nthu.edu.tw/).
+Hi! I'm **Wen-Han**. I am currently a MS Robotics student at [CMU RI](https://www.ri.cmu.edu/) advised by [Guanya Shi](https://www.gshi.me/). I spent a wonderful summer this year at [Genesis AI](https://www.genesis.ai/) as a Research Scientist Intern, advised by [Zhenjia Xu](https://zhenjiaxu.com/). Previously, I was a visiting student at [Berkeley AI Research (BAIR)](https://bair.berkeley.edu), where I was advised by [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [David M. Chan](https://dchan.cc), [Koushil Sreenath](https://me.berkeley.edu/people/koushil-sreenath/) and [Haozhi Qi](https://haozhi.io/). I received my BS in MechE at [NTHU](https://nthu-en.site.nthu.edu.tw/).
 
 My research interests center around:
 - Embodied AI
